@@ -1,5 +1,0 @@
-runtime: nodejs8
-
-handlers:
-  - url: /dist
-    static_dir: dist
