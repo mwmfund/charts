@@ -63,7 +63,7 @@ npm install  --save react-stockcharts
 
 [Documentation](http://mwmfund.github.io/charts)
 
-[Ready to use Examples](https://github.com/mwmfund/react-stockcharts-examples2)
+[Ready to use Examples](https://github.com/rrag/react-stockcharts-examples2)
 
 
 ### LICENSE
